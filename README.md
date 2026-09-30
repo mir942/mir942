@@ -16,7 +16,7 @@ Scanner output is a lead, not a finding. I manually reproduce and validate vulne
 * Web Application Penetration Testing
 * API Security Testing
 * Active Directory Security
-* Cloud Security Assessment
+* Cloud Security Testing
 * Vulnerability Assessment & Validation
 * Reconnaissance & Enumeration
 * Exploitation & Privilege Escalation
@@ -26,7 +26,7 @@ Scanner output is a lead, not a finding. I manually reproduce and validate vulne
 
 **Kali Linux · Burp Suite · Nmap · Wireshark · Metasploit · Nessus · Nikto · Gobuster · SQLmap · Python · Bash**
 
-## Credentials & Goals
+## Certifications & Goals
 
 * **CompTIA Security+**
 * Working toward **CPTS → PNPT → OSCP**

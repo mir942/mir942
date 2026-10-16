@@ -10,6 +10,7 @@ Scanner output is a lead, not a finding. I manually reproduce and validate vulne
 
 * [Penetration Testing Methodology](https://github.com/mir942/penetration-testing-methodology) — A phased, evidence-based penetration testing methodology guided by **NIST SP 800-115** and **PTES**.
 * [Web & API Penetration Testing](https://github.com/mir942/web-application-pentesting) — A practical testing lifecycle from reconnaissance and enumeration through exploitation, reporting, and retesting, aligned with the **OWASP WSTG**.
+* - **[Bug Bounty Report Toolkit](https://github.com/mir942/bugbounty-report-toolkit)**: Templates, CVSS 4.0 notes and a pre-submission checklist for writing accurate bug bounty and VDP reports.
 
 ## Technical Focus
 
